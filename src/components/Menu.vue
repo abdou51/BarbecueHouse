@@ -10,7 +10,7 @@
             <button class="text-center w-full  py-1 text-gray-800 hover:bg-gray-400 mb-2">Dessert</button>
             <button class="text-center w-full  py-1 text-gray-800 hover:bg-gray-400 mb-2">Drinks</button>
             <button class="text-center w-full  py-1 text-gray-800 hover:bg-gray-400 mb-2">Drinks</button>
-            <button class="text-center w-full  py-1 text-gray-800 active:bg-violet-700 mb-2 focus:bg-violet-700" active></button>
+            <button class="text-center w-full  py-1 text-gray-800 active:bg-violet-700 mb-2 focus:bg-violet-700" active>fdsfsd</button>
             <button class="text-center w-full  py-1 text-gray-800 active:bg-violet-700 mb-2 focus:bg-violet-700" active>BBBBBB</button>
             <button class="text-center w-full  py-1 text-gray-800 hover:bg-gray-400 mb-2">Drinks</button>
             <button class="text-center w-full  py-1 text-gray-800 hover:bg-gray-400 mb-2">Drinks</button>
